@@ -12,4 +12,4 @@ Please find the datasets at the following link and install in the root directory
 All code is ran using Python version 3.8.8
 
 <h3> Interpreting Model Results </h3>
-Code for additional two models is protected under NDA and not available for public release
+Code for additional two models is protected under NDA and not available for public release.
